@@ -1,38 +1,40 @@
-[
-  {
-    "id": 1,
-    "name": "Orange",
-    "price": 120,
-    "isStockOut": false
-  },
-  {
-    "id": 2,
-    "name": "Apple",
-    "price": 900,
-    "isStockOut": false
-  },
-  {
-    "id": 3,
-    "name": "Grape",
-    "price": 1120,
-    "isStockOut": true
-  },
-  {
-    "id": 4,
-    "name": "Mango",
-    "price": 40,
-    "isStockOut": false
-  },
-  {
-    "id": 5,
-    "name": "Blueberry",
-    "price": 110,
-    "isStockOut": true
-  },
-  {
-    "id": 6,
-    "name": "Blackberry",
-    "price": 130,
-    "isStockOut": false
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Orange",
+      "price": 120,
+      "isStockOut": false
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "price": 900,
+      "isStockOut": false
+    },
+    {
+      "id": 3,
+      "name": "Grape",
+      "price": 1120,
+      "isStockOut": true
+    },
+    {
+      "id": 4,
+      "name": "Mango",
+      "price": 40,
+      "isStockOut": false
+    },
+    {
+      "id": 5,
+      "name": "Blueberry",
+      "price": 110,
+      "isStockOut": true
+    },
+    {
+      "id": 6,
+      "name": "Blackberry",
+      "price": 130,
+      "isStockOut": false
+    }
+  ]
+}
